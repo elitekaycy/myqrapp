@@ -1,0 +1,8 @@
+.App-hover{
+  transition: 200ms ease-in all;
+}
+
+.App-hover:hover{
+   z-index: 1;
+   transform: scale(1.02,1.02);
+}
